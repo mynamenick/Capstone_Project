@@ -1,0 +1,5 @@
+SQL FINAL PROJECT BUSINESS RULES
+1. Pizza Counter would like to be able to keep track of each customers name.
+2. For each order Pizza Counter would like to know these things:
+	the size of the pizza, toppings, crust type, type of order, total price, customer who bought it, and the location.
+3. Keep track of each location with it's name and address.
